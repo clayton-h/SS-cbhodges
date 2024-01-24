@@ -8,7 +8,7 @@ Software Security Repo Spring 2024
 | Category: | Value: |
 | --- | --- |
 | Name: | Setup Hacking VM and Linux Fundamentals |
-| Description: | Setup Hacking System and Complete Linux Fundamentals module on Try Hack Me |
+| Description: | Setup Hacking System, Complete Linux Fundamentals module on Try Hack Me, and Create GitHub Repo for the Class |
 | Due Date: | 2/6/24 |
 | Status: | Incomplete |
 | Location: | ~ |
