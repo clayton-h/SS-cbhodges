@@ -10,10 +10,10 @@ Software Security Repo Spring 2024
 | Name: | Set-UID Lab |
 | Description: | Environment Variable and Set-UID Lab |
 | Due Date: | 2/14/24 |
-| Status: | in progress |
-| Location: | ~ |
-| Self Grade: | ~/100 |
-| Notes: | All tasks ~ as outlined in the Word document |
+| Status: | Complete |
+| Location: | https://github.com/clayton-h/SS-cbhodges/tree/main/A1-SetUID |
+| Self Grade: | 100/100 |
+| Notes: | All tasks completed as outlined in the Word document |
 
 ### Assignment #0
 
