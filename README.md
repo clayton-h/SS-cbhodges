@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Assignment #2
+
+| Category: | Value: |
+| --- | --- |
+| Name: | A2 - Pen Testing |
+| Description: | Vulnerability Scanning and Penetration Testing |
+| Due Date: | 3/4/24 |
+| Status: | Complete |
+| Location: | https://github.com/clayton-h/SS-cbhodges/tree/main/pentest |
+| Self Grade: | 100/100 |
+| Notes: | All tasks completed as outlined in the Word document |
+
 ### Assignment #1
 
 | Category: | Value: |
