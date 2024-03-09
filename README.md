@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Assignment #4
+
+| Category: | Value: |
+| --- | --- |
+| Name: | A4 - Ghidra SRE Challenge |
+| Description: | Ghidra SRE Challenge with NSA |
+| Due Date: | 3/18/24 |
+| Status: | Complete |
+| Location: | (https://github.com/clayton-h/SS-cbhodges/tree/main/assignment) |
+| Self Grade: | 100/100 |
+| Notes: | All tasks completed as outlined in the Word document |
+
 ### Assignment #3
 
 | Category: | Value: |
