@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Assignment #5
+
+| Category: | Value: |
+| --- | --- |
+| Name: | A5 - Stack Overflow Bash |
+| Description: | Stack Overflow Exploitation using Bash and Mitigation |
+| Due Date: | 4/5/24 |
+| Status: | ~ |
+| Location: | (~) |
+| Self Grade: | ~/100 |
+| Notes: | All tasks ~ as outlined in the Word document |
+
 ### Assignment #4
 
 | Category: | Value: |
