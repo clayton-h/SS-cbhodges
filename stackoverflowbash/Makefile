@@ -6,11 +6,11 @@
 #
 # -g adds debugging info to the executable
 # -Wall turns on most but not all warnings
-# -m32 compiles the program as a 32-bit x86 binary
 # -fno-stack-protector disables stack protection mechanisms like canaries
+# -z execstack allows execution of code on the stack
 
 CC = g++
-CFLAGS = -g -Wall -m32 -fno-stack-protector
+CFLAGS = -g -Wall -fno-stack-protector -z execstack
 PROGRAM = StackOverflowHW
 CPPFILES = StackOverflowHW.cpp
 OBJECTS = $(CPPFILES:.cpp=.o)
