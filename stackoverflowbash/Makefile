@@ -7,19 +7,23 @@
 # -g adds debugging info to the executable
 # -Wall turns on most but not all warnings
 # -fno-stack-protector disables stack protection mechanisms like canaries
-# -z execstack allows execution of code on the stack
+# -Wl,-z,execstack allows execution of code on the stack
 
 CC = g++
-CFLAGS = -g -Wall -fno-stack-protector -z execstack
+CFLAGS = -g -m32 -Wall -no-pie -fno-stack-protector -z execstack
 PROGRAM = StackOverflowHW
 CPPFILES = StackOverflowHW.cpp
+disable_aslr:
+	@echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 OBJECTS = $(CPPFILES:.cpp=.o)
 
 # Typing 'make' will invoke the first target entry in the file
 # (in this case the default entry)
 # You can name this target any name, but "default" or "all" are common practices
 
-default: $(PROGRAM)
+.PHONY: default clean run
+
+default: disable_aslr $(PROGRAM)
 
 # Build object files to create the executable
 
