@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Assignment #6
+
+| Category: | Value: |
+| --- | --- |
+| Name: | A6 - SEED Buffer Overflow (SetUID) |
+| Description: | Stack Overflow Detection, Exploitation, and Mitigation |
+| Due Date: | 4/22/24 |
+| Status: | ~ |
+| Location: | (~) |
+| Self Grade: | ~/100 |
+| Notes: | All tasks ~ as outlined in the Word document |
+
 ### Assignment #5
 
 | Category: | Value: |
