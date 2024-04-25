@@ -10,10 +10,10 @@ Software Security Repo Spring 2024
 | Name: | A7 - Pwntools |
 | Description: | Stack Overflow Exploitation using Python Pwntool |
 | Due Date: | 4/29/24 |
-| Status: | ~ |
-| Location: | (~) |
-| Self Grade: | ~/100 |
-| Notes: | All tasks ~ as outlined in the Word document |
+| Status: | Complete |
+| Location: | (https://github.com/clayton-h/SS-cbhodges/tree/main/pwntools) |
+| Self Grade: | 100/100 |
+| Notes: | All tasks completed as outlined in the Word document |
 
 ### Assignment #6
 
