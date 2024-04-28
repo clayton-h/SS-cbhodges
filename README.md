@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Assignment #8
+
+| Category: | Value: |
+| --- | --- |
+| Name: | A8 - CTF |
+| Description: | Capture The Flag (CTF) |
+| Due Date: | 5/6/24 |
+| Status: | Complete |
+| Location: | (~) |
+| Self Grade: | ~/100 |
+| Notes: | All tasks ~ as outlined in the Word document |
+
 ### Assignment #7
 
 | Category: | Value: |
