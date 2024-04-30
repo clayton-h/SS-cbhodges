@@ -11,9 +11,9 @@ Software Security Repo Spring 2024
 | Description: | Capture The Flag (CTF) |
 | Due Date: | 5/6/24 |
 | Status: | Complete |
-| Location: | (~) |
-| Self Grade: | ~/100 |
-| Notes: | All tasks ~ as outlined in the Word document |
+| Location: | (https://github.com/clayton-h/SS-cbhodges/tree/main/CTF) |
+| Self Grade: | 100/100 |
+| Notes: | All tasks completed as outlined in the Word document |
 
 ### Assignment #7
 
