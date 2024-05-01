@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Final Assignment
+
+| Category: | Value: |
+| --- | --- |
+| Name: | Final Project |
+| Description: | NSA Ghidra Puzzle Challenge  |
+| Due Date: | 5/10/24 |
+| Status: | Complete |
+| Location: | (https://github.com/clayton-h/SS-cbhodges/tree/main/final) |
+| Self Grade: | 80/100 |
+| Notes: | Most of the tasks were completed as outlined in the Word document; I had a bit of difficulty finding the values to trigger the last two gates |
+
 ### Assignment #8
 
 | Category: | Value: |
