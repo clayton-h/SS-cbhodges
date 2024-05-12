@@ -3,6 +3,18 @@ Software Security Repo Spring 2024
 
 ## Assignments:
 
+### Extra Credit
+
+| Category: | Value: |
+| --- | --- |
+| Name: | Overflows in Other Segments |
+| Description: | Replicate the heap and bss segment overflows as demonstrated in the class. Create a report with step by step explanation and screenshots as proof of work. |
+| Due Date: | 5/13/24 |
+| Status: | ~ |
+| Location: | (~) |
+| Self Grade: | ~/100 |
+| Notes: | All tasks were completed as outlined in the Word document; I had a bit of difficulty finding the values to trigger the last two gates |
+
 ### Final Assignment
 
 | Category: | Value: |
